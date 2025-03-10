@@ -1,3 +1,3 @@
 # Portfolio Website
 
-Hi there, welcome to my portfolio page!
+Hi there, welcome to my portfolio repository!
